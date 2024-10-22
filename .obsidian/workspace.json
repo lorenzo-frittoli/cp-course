@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "34ff6ce9a150ae98",
+    "type": "split",
+    "children": [
+      {
+        "id": "0896cbe0dbb695f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a57512bb8b5e8ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/0-introduction.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0-introduction"
+            }
+          },
+          {
+            "id": "5dbed16b38512f64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
+            }
+          },
+          {
+            "id": "6a52b284e3ed3616",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "static/noi.jpeg"
+              },
+              "icon": "lucide-image",
+              "title": "noi"
+            }
+          },
+          {
+            "id": "4689bf67d1abc881",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Slide Preview"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a80f60742255f0c",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1bea105ec049be5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0d13c43ac3c2ff4b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "858f4815a7eb9b9c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d5e712899373e65e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2e55ad54a0dffa1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cc3ef3cad0de6370",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c77ad5704196847d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "programming/0-introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0-introduction"
+            }
+          },
+          {
+            "id": "b52991aa114de141",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming/0-introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0-introduction"
+            }
+          },
+          {
+            "id": "ac3c8a0a4df3ef0e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4128c65b19594185",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming/0-introduction.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0-introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
+    }
+  },
+  "active": "5dbed16b38512f64",
+  "lastOpenFiles": [
+    "programming/0-introduction.md~",
+    "static/noi.jpeg",
+    "programming/0-introduction.md",
+    "static/whoarewe.jpg",
+    "static/file.jpg",
+    "Programming/0-introduction.md",
+    "programming",
+    "Programming/0-introduction.md~",
+    "static",
+    "Programming/0-introduction",
+    "Untitled.md",
+    "Programming",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
