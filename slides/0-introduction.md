@@ -4,15 +4,15 @@ Lezione 0: Introduzione
 
 ---
 
-## Chi Siamo
-Inserire immagine bellissima
-![[static/noi.jpeg|100]]
+## Risorse
+Tutto il materiale del corso puo' essere trovato su https://github.com/lorenzo-frittoli/cp-course
+![[static/repo_qrcode.png|250]]
 
 ---
 
-## Risorse
-
-Tutto il materiale del corso puo' essere trovato su https://github.com/lorenzo-frittoli/cp-course
+## Chi Siamo
+Immagine bellissima, grazie Mosi
+![[static/noi.jpeg|300]]
 
 ---
 
