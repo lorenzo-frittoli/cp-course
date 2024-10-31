@@ -79,12 +79,12 @@ Se il grafo non e' orientato basta aggiungere due archi che vanno in direzioni o
 
 ---
 
-## Implementazione: Python
+## Implementazione:
+#### Liste di adiacenza
 
 ```py
 N = int(input())
 M = int(input())
-
 graph = [[] for _ in range(N)]
 
 for _ in range(M):
