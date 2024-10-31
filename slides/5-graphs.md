@@ -68,6 +68,8 @@ Tutti i nodi tranne la radice hanno un **genitore** (il nodo sopra di loro) e po
 
 I nodi **senza figli** sono detti **foglie**.
 
+Un albero e' detto **radicato** se hai deciso qual e' la radice.
+
 ---
 
 ## Teoria Implementativa
