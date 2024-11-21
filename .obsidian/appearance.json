@@ -2,5 +2,8 @@
   "accentColor": "",
   "theme": "obsidian",
   "cssTheme": "Tokyo Night",
-  "showViewHeader": false
+  "showViewHeader": false,
+  "enabledCssSnippets": [
+    "slides"
+  ]
 }

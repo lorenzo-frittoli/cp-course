@@ -1,4 +1,4 @@
-# Competitive Programming (CP)
+	# Competitive Programming (CP)
 Lezione 6: BFS e DFS
 
 ---
@@ -55,7 +55,7 @@ from queue import Queue
 
 q = Queue()
 visited = [False for _ in range(len(tree))]
-while len(stack):
+while len(q):
 	current = q.get()
 	visited[current] = True
 	doSomething(current) # A seconda del problema
