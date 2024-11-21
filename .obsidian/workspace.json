@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "slides/7-priority-queue.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "7-priority-queue"
+            }
+          },
+          {
+            "id": "e1014b923ae490d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "slides/8-dijkstra.md",
                 "mode": "source",
                 "source": false
@@ -21,7 +35,8 @@
               "title": "8-dijkstra"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "2e55ad54a0dffa1f",
@@ -164,13 +178,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4fd4409ea472c287",
+  "active": "e1014b923ae490d3",
   "lastOpenFiles": [
     "slides/8-dijkstra.md~",
     "slides/7-priority-queue.md",
+    "slides/8-dijkstra.md",
     "slides/7-priority-queue.md~",
     "slides/7-dijkstra 1.md",
-    "slides/8-dijkstra.md",
     "slides/7-dijkstra.md",
     "slides/7-dijkstra.md~",
     "slides/6-bfs-dfs.md",
@@ -189,7 +203,6 @@
     "slides/2-prefix-sum.md~",
     "pythontest.py~",
     "python3",
-    "in.txt",
     "static/repo_qrcode.png",
     "programming/0-introduction.md",
     "static/whoarewe.jpg",

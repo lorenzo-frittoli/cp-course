@@ -1,5 +1,5 @@
 # Competitive Programming (CP)
-Lezione 7: Dijkstra
+Lezione 8: Dijkstra
 
 ---
 
@@ -52,19 +52,23 @@ def dijkstra(N, M, graph, X, Y):
     pq = queue.PriorityQueue()
     
     pq.push((0, X)) # (peso, elemento)
-    distances[X] = 0
 
     while not pq.empty():
 
         distance, node = pq.get()
+
+        if distances[node] != -1:
+            continue
+
+        distances[node] = distance
+
+        if node == Y:
+            return distance
+
         for weight, neighbour in graph[node]:
-            if distances[neighbour] == -1:
+            if distances[neighbour] != -1: # ottimizzazione
                 continue
 
-            if neighbour = Y:
-                return distance + weight
-
-            distance[neighbour] = distance + weight
             pq.push(distance + weight, neighbour)
 ```
 
