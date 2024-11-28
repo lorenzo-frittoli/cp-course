@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "slides/8-dijkstra.md",
+                "file": "slides/9-dynamic-programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8-dijkstra"
+              "title": "9-dynamic-programming"
             }
           }
         ],
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "2e55ad54a0dffa1f",
@@ -180,29 +181,30 @@
   },
   "active": "e1014b923ae490d3",
   "lastOpenFiles": [
+    "slides/9-dynamic-programming.md~",
+    "template.py~",
+    "slides/8-dijkstra.md",
+    "slides/9-dynamic-programming.md",
+    "output.txt~",
+    "output.txt",
+    "input.txt~",
+    "input.txt",
+    "input",
+    "template.py",
     "slides/8-dijkstra.md~",
     "slides/7-priority-queue.md",
-    "slides/8-dijkstra.md",
     "slides/7-priority-queue.md~",
     "slides/7-dijkstra 1.md",
     "slides/7-dijkstra.md",
-    "slides/7-dijkstra.md~",
     "slides/6-bfs-dfs.md",
     "slides/5-graphs.md",
     "slides/correzioni-gare/OIS-2025-round-1.md",
-    "slides/correzioni-gare/OIS-2025-round-1.md~",
     "slides/4-stack.md",
-    "slides/5-graphs.md~",
     "slides/3-queue.md",
     "slides/2-prefix-sum.md",
-    "slides/4-stack.md~",
-    "slides/3-queue.md~",
     "static/noi.jpeg",
     "slides/1-complexity-analysis.md",
     "slides/0-introduction.md",
-    "slides/2-prefix-sum.md~",
-    "pythontest.py~",
-    "python3",
     "static/repo_qrcode.png",
     "programming/0-introduction.md",
     "static/whoarewe.jpg",
