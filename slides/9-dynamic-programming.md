@@ -23,13 +23,13 @@ def fibonacci(x):
 ## Complessita'
 $$O(2^N)$$
 ```
-      --5--
-     /     \
-    3       2
-   / \     / \
-  2   1   1   1
- / \
-1   1
+        --4--
+       /     \
+      3       2
+     / \     / \
+    2   1   1   0
+   / \
+  1   0
 ```
 
 ---
@@ -85,3 +85,7 @@ print(dp[4])
 ---
 
 ## Problemi Consigliati
+(difficolta' molto indicative, sono tutti relativamente facili una volta che capite il meccanismo)
+**EASY** - [`dogtrick`](https://training.olinfo.it/task/ois_dogtrick)
+**MEDIUM** - [`treni`](https://training.olinfo.it/task/preoii_treni)
+**HARD** - [`nonna`](https://training.olinfo.it/task/ois_nonna)
